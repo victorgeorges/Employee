@@ -1,5 +1,6 @@
 # employee
-6 Tabelas contendo 3 mil funcinários italianos com seus respetivos nomes e valores de venda.
+6 Tabelas, a qual cada uma representa os meses de janeiro à junho
+<br>contendo 3 mil funcinários italianos com seus respetivos nomes e valores de venda.
 Buscar dentre esses todos valores,
 Quem vendeu mais que 50 mil
 Quanto foi e 
